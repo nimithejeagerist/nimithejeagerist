@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Akinroye</h1>
 <h3 align="center">A passionate software developer and AI/ML enthusiast</h3>
 
-<img align="center" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fplayground.com%2Fsearch%3Fq%3DCreate%2Ba%2B3D%2Billustration%2Bwith%2Ba%2Bbeautiful%2B18%2Byear%2Bold%2BAfrican%2Byoung%2Bman%2Bbusy%2Btyping%2Bcode%2Bon%2Ba%2Bchair%2Bin%2Bfront%2Bof%2Ba%2B3D%2BInstagram%2Blogo.%2BThe%2Bcharacter%2Bmust%2Bhave%2Bgreen%2Band%2Bwhite%2Bpants&psig=AOvVaw19KLEUNrcXKKnNmecDHL-d&ust=1729495087366000&source=images&cd=vfe&opi=89978449&ved=0CBgQ3YkBahcKEwjo8a-RtpyJAxUAAAAAHQAAAAAQBA">
+<p align="center">
+  <img align="center" alt="coding" width="400" src="codingpicture.jpeg">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimithejeagerist&label=Profile%20views&color=0e75b6&style=flat" alt="nimithejeagerist" /> </p>
 
