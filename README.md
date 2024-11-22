@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer and AI/ML enthusiast</h3>
 
 <p align="center">
-  <img align="center" alt="coding" width="400" src="codingpicture.jpeg">
+  <img align="center" alt="coding" width="400" src="githubprofile.jpg">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimithejeagerist&label=Profile%20views&color=0e75b6&style=flat" alt="nimithejeagerist" /> </p>
