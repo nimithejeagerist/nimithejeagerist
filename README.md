@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimithejeagerist&label=Profile%20views&color=0e75b6&style=flat" alt="nimithejeagerist" /> </p>
 
-- 🔭 I’m currently working on **Shepherd AI**
+- 🔭 I’m currently working on **HolyAI**
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **machine learning projects**
+- 👯 I’m looking to collaborate on **machine learning projects especially NLP related** 
 
-- 💬 Ask me about **swift, react and machine learning**
+- 💬 Ask me about **swift, react and machine learning techniques**
 
 - 📫 How to reach me **nakinroye@gmail.com**
 
