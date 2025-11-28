@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Tesseract**
 
-- 🌱 I’m currently learning **Data Science and Privacy**
+- 🌱 I’m currently learning **Differential Privacy**
 
 - 👯 I’m looking to collaborate on **machine learning projects especially NLP related** 
 
