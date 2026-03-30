@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **xAI and tinkering with Robotics**
 
-- 👯 I’m looking to collaborate on **machine learning projects especially NLP related** 
+- 👯 I’m looking to collaborate on **machine learning projects especially LLM related** 
 
 - 💬 Ask me about **swift, react and machine learning techniques**
 
